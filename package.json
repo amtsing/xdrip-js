@@ -12,7 +12,7 @@
   "dependencies": {
     "crc": "^3.4.4",
     "debug": "^2.6.6",
-    "noble": "thebookins/noble",
+    "noble": "^1.9.1",
     "uuid": "^3.0.1"
   },
   "devDependencies": {
